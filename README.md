@@ -38,6 +38,12 @@
 
 如果不会设置环境变量可以直接修改 `bgm.py` 中的默认值。
 
+## 🔒️ 许可协议
+
+* 本项目在遵循 [**GNU Affero General Public License v3.0**](https://www.gnu.org/licenses/agpl-3.0.en.html) 许可协议下进行发布 (下简称 AGPL)
+* 若对代码进行了修改，请务必遵循许可协议的规定进行发布
+* **本项目除 AGPL 外还受以下附加条款限制：本项目暂无合并入 `calibre-web` 主线的计划，并且未经作者同意请勿向 `calibre-web` 提交相关 patch**
+
 ## 💡 Future
 
-* **一个 `calibre-web` fork 正在~~火热~~开发中，将全面支持基于 Bangumi 的进度管理**
+* **一个 `calibre-web` fork 正在~~火热~~开发中，将全面支持基于 Bangumi 的进度管理和其他额外的炫酷功能（雾**
